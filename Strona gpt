@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kawiarnia z kącikiem dla dzieci</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Kawiarnia z kącikiem dla dzieci</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Strona główna</a></li>
+                    <li><a href="#about">O nas</a></li>
+                    <li><a href="#menu">Menu</a></li>
+                    <li><a href="#kids-corner">Kącik dla dzieci</a></li>
+                    <li><a href="#contact">Kontakt</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home" class="section">
+        <div class="container">
+            <h2>Witaj w naszej kawiarni!</h2>
+            <p>Znajdziesz u nas przytulne miejsce zarówno dla dorosłych, jak i dla dzieci. Zapraszamy do relaksu i smacznego spędzenia czasu.</p>
+        </div>
+    </section>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>O nas</h2>
+            <p>Nasza kawiarnia specjalizuje się w serwowaniu pysznych dań i napojów w przyjaznej atmosferze dla rodzin. Od lat dbamy o to, by każdy mógł się u nas zrelaksować.</p>
+        </div>
+    </section>
+
+    <section id="menu" class="section">
+        <div class="container">
+            <h2>Menu</h2>
+            <div class="menu-item">
+                <h3>Śniadania</h3>
+                <p>Jajecznica, kanapki, płatki śniadaniowe.</p>
+            </div>
+            <div class="menu-item">
+                <h3>Lunch</h3>
+                <p>Domowe zupy, sałatki, dania obiadowe.</p>
+            </div>
+            <div class="menu-item">
+                <h3>Dla dzieci</h3>
+                <p>Zestawy dziecięce, zdrowe przekąski.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="kids-corner" class="section">
+        <div class="container">
+            <h2>Kącik dla dzieci</h2>
+            <p>Nasz kącik dla dzieci jest w pełni wyposażony w zabawki, książki i miejsca do kreatywnej zabawy. Zapewniamy, że Twoje dziecko będzie się tu świetnie bawić!</p>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Kontakt</h2>
+            <p>Zapraszamy do odwiedzenia naszej kawiarni!</p>
+            <address>
+                123 Green Street, Beige City<br>
+                Tel: 123-456-7890<br>
+                Email: info@kawiarniadladzieci.pl
+            </address>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Kawiarnia z kącikiem dla dzieci. Wszelkie prawa zastrzeżone.</p>
+        </div>
+    </footer>
+</body>
+</html>
